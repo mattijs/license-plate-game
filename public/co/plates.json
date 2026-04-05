@@ -1,0 +1,849 @@
+[
+  {
+    "id": "150th-anniversary-license-plate-13",
+    "name": "150th Anniversary License Plate 13+",
+    "category": "regular",
+    "description": "About: Creation of this license plate was per House Bill 22-1388. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP)) or recreational vehicles and motor homes. Requirements: Pay usual taxes and fee. Fees: Usual taxes and fees. Personalized License Plate Fees: A one-time fee of $60.00 with an annual $25.00 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited Plate Options: Information: Research Colorado Revised Statute 42-3-266.",
+    "image": "/plates/150th-anniversary-license-plate-13.png"
+  },
+  {
+    "id": "electric-vehicle-plate",
+    "name": "Electric Vehicle Plate",
+    "category": "regular",
+    "description": "About: Creation of this license plate was per House Bill 21-1141. Available For: Plug-In Electric and Plug-In Hybrid Electric Vehicles that are Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: Any person who has a Plug-In Electric Vehicle and Plug-in Hybrid Electric Vehicle. Requirements: A person with a Plug-In Electric Vehicle and Plug-In Hybrid Electric Vehicle must either be issued an Electric Vehicle license plate or if they elect to not be issued the license plate must be issued the Plug-In Electric Vehicle decal. Fees: No additional fees for the Electric Vehicle license plate. Personalized License Plate Fees: A one-time fee of $60.00 with an annual $25.00 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: No Limit Plate Options: Information: Research Colorado Revised Statute 42-3-259.",
+    "image": "/plates/electric-vehicle-plate.png"
+  },
+  {
+    "id": "passenger-license-plate",
+    "name": "Passenger License Plate",
+    "category": "regular",
+    "description": "Available For: Passenger cars, sport utility vehicles, hearses, motor homes, buses, passenger vans. Number of Plates Allowed : Unlimited Plate Options : Personalized license plates Information: Research Colorado Revised Statute 42-3-306(2)(b).",
+    "image": "/plates/passenger-license-plate.jpg"
+  },
+  {
+    "id": "motorcycle",
+    "name": "Motorcycle",
+    "category": "regular",
+    "description": "Available For : 2 to 3 wheeled motor vehicle that uses directly connected steering Number of Plates Allowed : Unlimited Plate Options : Personalized license plates Available For: Any motor vehicle designed to travel on no more than three wheels. Number of Plates Allowed : Unlimited. Plate Option s: Information : Research Colorado Revised Statute 42-3-306(5).",
+    "image": "/plates/motorcycle.jpg"
+  },
+  {
+    "id": "recreational-truck",
+    "name": "Recreational Truck",
+    "category": "regular",
+    "description": "About : Used exclusively for pleasure, enjoyment, recreational purposes or transportation of the owner, lessee or occupant. May be used singly or in combination with a trailer or utility trailer, which is used in the same manner as the truck. Not used to transport cargo or passengers for profit or hire. Available For : Noncommercial or recreational vehicles, except for motor homes Plate Options : Personalized license plates Information : Research Colorado Revised Statute 42-3-306 (13).",
+    "image": "/plates/recreational-truck.jpg"
+  },
+  {
+    "id": "150th-anniversary-license-plate-u13",
+    "name": "150th Anniversary License Plate U13",
+    "category": "regular",
+    "description": "About: Creation of this license plate was per House Bill 22-1388. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Requirements: Pay usual taxes and fee. Fees: Usual taxes and fees. Personalized License Plate Fees: A one-time fee of $60.00 with an annual $25.00 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited Plate Options: Information: Research Colorado Revised Statute 42-3-266.",
+    "image": "/plates/150th-anniversary-license-plate-u13.png"
+  },
+  {
+    "id": "persons-with-disabilities",
+    "name": "Persons With Disabilities",
+    "category": "regular",
+    "description": "About: This identifying plate permits qualified applicants to park their vehicle or a vehicle in which they are a passenger in designated disability parking spaces. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, motor homes, motorcycles. Who Qualifies: A person with a physical impairment that limits the person's mobility to the extent that the person with a disability is unable to walk 200 feet without extreme pain, fatigue or other ill effects or without the aid of a mechanical device. A licensed Colorado physician, Advance Practice Nurse, Podiatrist, or Commissioned Medical Officer must certify under penalty of perjury that the disability causes a substantial mobility limitation. Number of Plates Allowed: The department may issue two identifying placards, two identifying plates, or one plate and one placard to an eligible individual. C.R.S. 42-3-204(3)(b)(I) For more information see Form DR2816 Persons with Disabilities Parking Privileges Pamphlet Requirements: Qualifying person must submit Form DR 2219 Persons With Disabilities Parking Privileges Application For personalized persons with disabilities license plates: Personalized License Plate Application More Information: Research Colorado Revised Statute 42-3-204. 1 CCR 204-10 Rule 25 Persons with Disabilities Parking Privileges , Code of Federal Regulations 23 CFR 1235",
+    "image": "/plates/persons-with-disabilities.png"
+  },
+  {
+    "id": "designer",
+    "name": "Designer",
+    "category": "regular",
+    "description": "Available For: Passenger cars or trucks that do not exceed sixteen thousand pounds empty weight. Fees: One-time fee of $50.00 for the issuance or replacement of plates.  $25.00 to the Highway Users Tax Fund (C.R.S. 43-4-205 (5.5)(b). Number of Plates Allowed : Unlimited. Plate Options : Personalized license plates Information: Research Colorado Revised Statute 42-3-212",
+    "image": "/plates/designer.jpg"
+  },
+  {
+    "id": "trailer",
+    "name": "Trailer",
+    "category": "regular",
+    "description": "Who Qualifies : Any person with a Trailer, Utility Trailer, Trailer Coach or Multi-purpose Trailer. Number of Plates Allowed: Unlimited. Plate Options : Personalized license plates Information : Research Colorado Revised Statute 42-3-306(3).",
+    "image": "/plates/trailer.jpg"
+  },
+  {
+    "id": "historical-and-retired-plates",
+    "name": "Historical and Retired Plates",
+    "category": "regular",
+    "description": "About: Creation of this license plate was per Senate Bill 21-069 and SB22-217. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP)) or recreational vehicles and motor homes. Who Qualifies: Any person desiring to be issued the Historical or Retired Style Background license plate. Requirements: A person desiring to be issued the Historical or Retired Style Background license plate must apply with the Department and pay the additional fees. Fees: A fee of $25.00 for issuance or replacement of the license plates and then charged annually, in addition to other taxes and fees. The $25.00 is remitted to the Disability Support Fund (C.R.S. 24-30-2205.5) Personalized License Plate Fees: A one-time fee of $60.00 with an annual $25.00 fee collected each year thereafter upon renewal. Number of Plates Allowed: No Limit. Plate Options: Information: Research Colorado Revised Statute 42-3-206.5.",
+    "image": "/plates/historical-and-retired-plates.png"
+  },
+  {
+    "id": "license-plates-fees",
+    "name": "License Plates Fees",
+    "category": "regular",
+    "description": "Cost of License Plates manufactured by Colorado Correctional Industries - Effective July 1, 2025 An embossed plate is a plate with raised lettering pressed into the material. The standard green and white plates are embossed. A Print-On-Demand plate is a flat laser-etched image on the metal. Personalized plates and other special plate designs (e.g. military, personalized, group plates) are “Print-On-Demand” plates.",
+    "image": null
+  },
+  {
+    "id": "adopt-a-shelter-pet",
+    "name": "Adopt A Shelter Pet",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per Senate Bill 10-1214. Available For: Passenger vehicles, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: Any person that desires to register their vehicle with the Adopt a Pet plate. Requirements : None Fees : One-time fee of $80.00 for new issuance or replacement of plates, in addition to other taxes and fees. The $80.00 fee is split between three funds, $25.00 to the Highway Users Tax Fund(C.R.S. 43-4-201); $25.00 to the Licensing Services Cash Fund (C.R.S. 42-2-114.5); and $30.00 to the Pet Overpopulation Fund (C.R.S. 35-80-116.5) In addition to all other taxes and fees, a person renewing an Adopt a Pet license plate shall pay a $25.00 Pet Overpopulation Fund fee to renew. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Plates Plate Options : Information: Research Colorado Revised Statute 42-3-234.",
+    "image": "/plates/adopt-a-shelter-pet.jpg"
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 24-1369. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP)) or recreational vehicles and motor homes. Who Qualifies: Anyone. Requirements : None Fees : No additional fees; a one-time fee of $25.00 fee that is credited to the highway users tax fund; and a one-time $25 fee that is credited to the Colorado DRIVES vehicle services account, in addition to other taxes and fees. Usual taxes and fees associated with titling and registering of a motor vehicle. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Plates Online: myDMV.colorado.gov Plate Options : Information: Research Colorado Revised Statute 42-3-271.",
+    "image": "/plates/agriculture.png"
+  },
+  {
+    "id": "als",
+    "name": "ALS",
+    "category": "group-special",
+    "description": "About: The Amyotrophic Lateral Sclerosis (ALS) group special license plate, created with Senate Bill 15-229. Available For: Passenger vehicles, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: Any person that desires to register their vehicle with the ALS License Plate Requirements: None Fees: One time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60.00 ($58.00 upon approval and $2.00 when registered) with an annual $25.00 fee collected each year thereafter upon renewal for Personalized Plates. Number of Plates Allowed: Unlimited Plates Online: https://www.als.org/support/states/colorado Plate Options: Information: Research Colorado Revised Statute 42-3-248.",
+    "image": "/plates/als.jpg"
+  },
+  {
+    "id": "american-indian-scholars",
+    "name": "American Indian Scholars",
+    "category": "group-special",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : A person authorized by the Rocky Mountain Indian Chamber of Commerce will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $25.00 to the Rocky Mountain Indian Chamber of Commerce for each electronic certificate that is valid for two weeks from date of issuance. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Online : Rocky Mountain Indian Chamber of Commerce . Plate Options : Information : Research Colorado Revised Statute 42-3-217",
+    "image": "/plates/american-indian-scholars.jpg"
+  },
+  {
+    "id": "aviation",
+    "name": "Aviation",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per Senate Bill 17-1212. Who Qualifies : The Aviation license plate may be issued to any person that desires to register their vehicle with the Aviation license plate. Requirements : None Fees : A one-time fee of $50.00 will be collected for issuance or replacement of plates. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited. Plate Options : Information : Research Colorado Revised Statute 42-3-251.",
+    "image": "/plates/aviation.jpg"
+  },
+  {
+    "id": "born-to-be-wild",
+    "name": "Born To Be Wild",
+    "category": "group-special",
+    "description": "About : Creation of this license plate was per House Bill 23-1265. Available Fo r: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : Anyone Requirements : None Fees : One-time fee of $25.00 fee that is credited to the highway users tax fund; an annual $50 fee that is credited to the wildlife cash fund in the Division of Parks and Wildlife; and a one-time $25 fee that is credited to the Colorado DRIVES vehicle services account, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Online : myDMV.colorado.gov Plate Options : Information : Research Colorado Revised Statute 42-3-267.",
+    "image": "/plates/born-to-be-wild.jpg"
+  },
+  {
+    "id": "boy-scouts",
+    "name": "Boy Scouts",
+    "category": "group-special",
+    "description": "About : The Boy Scouts license plate is a limited issued commemorative plate that will only be issued from July 15, 2009 through June 30, 2016, or so long as the department has the license plates in stock, whichever occurs later. Plates issued within this period may continue to be used after June 30, 2016 until they become damaged, destroyed, lost, stolen or unreadable. Available For : The Boy Scouts license plate may be issued to trucks that do not exceed sixteen thousand pounds empty weight, passenger cars, motorcycle, or a noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicle. Who Qualifies : The Boy Scouts license plate may be issued to any person that desires to register their vehicle with the Boy Scouts license plate. Requirements : None Fees : A one-time fee of $50.00 will be collected for issuance or replacement of plates. Personalized License Plate Fee s: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited. Plate Options : Information : Research Colorado Revised Statute 42-3-229",
+    "image": "/plates/boy-scouts.jpg"
+  },
+  {
+    "id": "breast-cancer-awareness",
+    "name": "Breast Cancer Awareness",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 05-1247 and amended with House Bill 09-1164. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : Any person that desires to register their vehicle with the Breast Cancer Awareness plate. Fees : One-time fee of $75.00 for new issuance or replacement of plates, in addition to other taxes and fees. The $75.00 fee is split between three funds, $25.00 to the Highway Users Tax Fund (C.R.S. 43-4-201); $25.00 to the Licensing Services Cash Fund (C.R.S. 42-2-114.5); and $25.00 to the Breast and Cervical Cancer Prevention and Treatment Fund (C.R.S. 25.5-5-308). On or after July 1, 2012, a person renewing a Breast Cancer license plate shall pay a $25.00 Breast and Cervical Cancer Prevention and Treatment Fund surcharge. The Breast and Cervical Cancer Prevention and Treatment Fund is created under the Colorado Medical Assistance Act. Information and administration of the Colorado Medical Assistance Act can be obtained by contacting the Department of Public Health and Environment. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited. Plate Options : Information : Research Colorado Revised Statute 42-3-217.5",
+    "image": "/plates/breast-cancer-awareness.jpg"
+  },
+  {
+    "id": "broncos-foundation",
+    "name": "Broncos Foundation",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 06-1339. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : A person authorized by the Denver Broncos Foundation organization will be issued a certificate valid for one set of plates. Requirements: Qualifying person must donate $40.00 to the Denver Broncos Foundation organization for each authorizing certificate. Contact the Denver Broncos Foundation organization at Denver Broncos. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: Denver Broncos. Plate Options : Information : Research Colorado Revised Statute 42-3-221",
+    "image": "/plates/broncos-foundation.png"
+  },
+  {
+    "id": "carbon-fund",
+    "name": "Carbon Fund",
+    "category": "group-special",
+    "description": "About : The Carbon Fund group special license plate was created with Senate Bill 08-186. Carbon Fund license plates may only be issued to persons that have been authorized by the Colorado Carbon Fund via The Climate Trust. A certificate will be issued to each authorized person that is valid for one set (single for motorcycles) of Carbon Fund license plates. Individuals should contact Natural Capitalism Solutions at (720) 684-6580 to inquire about the issuance of an authorization certificate. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreational vehicles, motor homes and motorcycles. Who Qualifies : A person authorized by Natural Capitalism Solutions by offsetting through the carbon fund. Requirements : Qualifying person must contribute a minimum of $25.00 or offset 50% of their vehicle's annual emissions to the Colorado Carbon Fund via Natural Capitalism Solutions. Donations will be transferred into the Colorado Carbon Fund, for each certificate authorizing issuance of the Carbon Fund license plate. Only one Carbon Fund license plate set (single for motorcycle) per certificate is allowed. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of the Carbon Fund license plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Plate Options : Information : Research Colorado Revised Statute 42-3-228",
+    "image": "/plates/carbon-fund.jpg"
+  },
+  {
+    "id": "chicanao-pride",
+    "name": "Chicana/o Pride",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 24-1105 Available for: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : Anyone Requirements : Applicant makes a $50 donation to El Movimiento Sigue Fees: A one-time fee of $25.00 fee that is credited to the highway users tax fund; and a one-time $25 fee that is credited to the Colorado DRIVES vehicle services account, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Online : myDMV.colorado.gov https://elmovimientosigue.org Plate Options : Information : Research Colorado Revised Statue 42-3-270",
+    "image": "/plates/chicanao-pride.png"
+  },
+  {
+    "id": "child-loss-awareness",
+    "name": "Child Loss Awareness",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 12-1131 Available for: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies : Any person that desires to register their vehicle with the Child Loss Awareness license plate Requirements : None Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Online : Rowan Tree Foundation Plate Options : Information : Colorado Revised Statues 42-3-243",
+    "image": "/plates/child-loss-awareness.jpg"
+  },
+  {
+    "id": "childhood-cancer-awareness",
+    "name": "Childhood Cancer Awareness",
+    "category": "group-special",
+    "description": "About : The Childhood Cancer Awareness license plate created by House Bill 18-1255 is effective January 1, 2019. A certificate will be issued to each authorized person that is valid for one set (single for motorcycles) of Childhood Cancer Awareness license plates. A one-time donation to the Morgan Adams Foundation is required to qualify for the Childhood Cancer Awareness Special License Plate. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreational vehicles, motor homes and motorcycles. Who Qualifies: A person authorized by the Morgan Adams Foundation ( https://www.morganadamsfoundation.org/licenseplate/ ) Requirements : Qualifying person must donate $43.00 to the Morgan Adams Foundation. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: https://www.morganadamsfoundation.org/licenseplate/ Plate Options : Information : Research Colorado Revised Statute 42-3-252",
+    "image": "/plates/childhood-cancer-awareness.jpg"
+  },
+  {
+    "id": "colorado-avalanche",
+    "name": "Colorado Avalanche",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per House Bill 11-1316. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : A person authorized by the Colorado Avalanche will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $45.00 to Kroenke Sports Charities for each authorizing certificate. Contact Kroenke Sports Charities at www.pepsicenter.com/AvsLicensePlate Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online : Colorado Avalanche Plate Options : Information: Research Colorado Revised Statute 42-3-239",
+    "image": "/plates/colorado-avalanche.jpg"
+  },
+  {
+    "id": "colorado-nurses",
+    "name": "Colorado Nurses",
+    "category": "group-special",
+    "description": "About : Creation of this license plate was per House Bill 21-1219. Available For : Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The Colorado Nurses license plate may be issued to a person authorized by the nonprofit Colorado Nurses Foundation who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements : Qualifying person must donate $50.00 to the Colorado Nurses Foundation for each authorizing certificate. Contact the Colorado Nurses Foundation at www.coloradonursesfoundation.com . Fees : One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One license plate set (single for motorcycle) per authorized certificate. Online : www.coloradonursesfoundation.com Plate Options : Information : Research Colorado Revised Statute 42-3-258.",
+    "image": "/plates/colorado-nurses.png"
+  },
+  {
+    "id": "colorado-professional-firefighter",
+    "name": "Colorado Professional Firefighter",
+    "category": "group-special",
+    "description": "Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The Colorado Professional Firefighter license plate may be issued to a person authorized by the nonprofit Colorado Professional Firefighter Foundation who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements: Qualifying person must donate $60 to the Colorado Professional Firefighter Foundation for each authorizing certificate. Contact the Colorado Professional Firefighter Foundation at https://www.firedues.com/ Fees: One-time fee of $50 for issuance or replacement of the license plates, in addition to other taxes and fees. This plate cannot be transferred to other passenger cars and motorcycles. To keep this plate, customers who purchase a new vehicle will need to visit https://www.firedues.com to prove they are eligible and obtain another authorizing certificate. Number of Plates Allowed: One license plate set (single for motorcycle) per authorized certificate. Online: https://www.firedues.com/ Plate Options: Information : Research Colorado Revised Statute 42-3-254.",
+    "image": "/plates/colorado-professional-firefighter.png"
+  },
+  {
+    "id": "colorado-rockies",
+    "name": "Colorado Rockies",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per House Bill 12-1295. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: A person authorized by Colorado Rockies Baseball Foundation will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $52.80 to the Colorado Rockies Baseball Foundation for each authorizing certificate. Contact the Colorado Rockies at www.coloradorockies.com Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online : www.coloradorockies.com Plate Options : Information : Research: Colorado Revised Statute 42-3-241",
+    "image": "/plates/colorado-rockies.jpg"
+  },
+  {
+    "id": "columbine",
+    "name": "Columbine",
+    "category": "group-special",
+    "description": "About: This plate was created to recognize the victims and survivors of the tragic bombing and shooting at Columbine High School on April 20, 1999. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes. Who Qualifies : Any person that desires to register their vehicle with the Columbine plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited Plate Options: Information : Research Colorado Revised Statute 42-3-207",
+    "image": "/plates/columbine.jpg"
+  },
+  {
+    "id": "court-appointed-special-advocates-for-children-casa",
+    "name": "Court Appointed Special Advocates for Children (C.A.S.A)",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 22-1241. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The CASA license plate may be issued to any person. Requirements: Pay the usual registration taxes and fees Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : No limit. Plate Options: Information: Research Colorado Revised Statute 42-3-263.",
+    "image": "/plates/court-appointed-special-advocates-for-children-casa.png"
+  },
+  {
+    "id": "craig-hospital",
+    "name": "Craig Hospital",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per House Bill 11-1166. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: The Craig Hospital license plate may be issued to any person that desires to register their vehicle with the Craig Hospital license plate Requirements : None Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited Online: Craig Hospital Plate Options : Information: Research: Colorado Revised Statute 42-3-240",
+    "image": "/plates/craig-hospital.jpg"
+  },
+  {
+    "id": "delta-sigma-theta-sorority",
+    "name": "Delta Sigma Theta Sorority",
+    "category": "group-special",
+    "description": "About : Creation of this license plate was per House Bill 22-1103. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The DELTA SIGMA THETA license plate may be issued to any person who is able to prove membership. Requirements: Pay the usual registration taxes and fees Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: No limit. Plate Options: Information: Research Colorado Revised Statute 42-3-261.",
+    "image": "/plates/delta-sigma-theta-sorority.png"
+  },
+  {
+    "id": "denver-nuggets",
+    "name": "Denver Nuggets",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 11-1316. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by the Denver Nuggets will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $45.00 to Kroenke Sports Charities for each authorizing certificate. Contact the Kroenke Sports Charities at https://www.nba.com/nuggets/license-plate Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online : Denver Nuggets Plate Options : Information: Research Colorado Revised Statute 42-3-239",
+    "image": "/plates/denver-nuggets.jpg"
+  },
+  {
+    "id": "donate-life",
+    "name": "Donate Life",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 09-1347. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person that desires to register their vehicle with the Donate Life license plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited. Plate Options: Information : Research Colorado Revised Statute 42-3-232",
+    "image": "/plates/donate-life.jpg"
+  },
+  {
+    "id": "emergency-medical-services",
+    "name": "Emergency Medical Services",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per Senate Bill 14-036 Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by the Emergency Medical Services Association of Colorado will be issued a certificate valid for one set of plates. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: 1 set per certificate. Online: https://www.emsac.org/ Plate Options: Information: Research Colorado Revised Statute 42-3-247",
+    "image": "/plates/emergency-medical-services.jpg"
+  },
+  {
+    "id": "epilepsy-awareness",
+    "name": "Epilepsy Awareness",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 21-1014. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The Epilepsy Awareness license plate may be issued to a person authorized by the nonprofit Epilepsy Foundation of Colorado who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements: Qualifying person must donate $50.00 to the Epilepsy Foundation of Colorado for each authorizing certificate. Contact the Epilepsy Foundation of Colorado at www.epilepsycolorado.org . Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60.00 with an annual $25.00 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One license plate set (single for motorcycle) per authorized certificate. Online: www.epilepsycoloradowyoming.org Plate Options: Information: Research Colorado Revised Statute 42-3-265",
+    "image": "/plates/epilepsy-awareness.png"
+  },
+  {
+    "id": "fallen-heroes",
+    "name": "Fallen Heroes",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per House Bill 12-1023. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: A person authorized by Colorado Chapter of Concerns of Police Survivors Foundation Inc. will be issued a pay pal receipt valid for one set of plates. Requirements: Qualifying person must donate $50.00 to the Colorado Chapter of Concerns of Police Survivors Foundation Inc. for each authorizing pay pal receipt. Contact the Colorado Chapter of Concerns of Police Survivors Foundation Inc. at www.coloradocops.org . Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One plate set (single for motorcycles) per authorized pay pal receipt. The County Motor Vehicle Office will retain and destroy the pay pal receipt upon issuance of plate. Online: Colorado Chapter of Concerns of Police Survivors Foundation Inc . Plate Options: Information: Research Colorado Revised Statute 42-3-242.",
+    "image": "/plates/fallen-heroes.jpg"
+  },
+  {
+    "id": "firefighter",
+    "name": "Firefighter",
+    "category": "group-special",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : A person who can provide proof they are an active, volunteer or retired firefighter. Requirements : Establish proof of membership via Firefighter ID Card or a letter from the Fire Chief. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Plate Options : Information: Research Colorado Revised Statute 42-3-207",
+    "image": "/plates/firefighter.jpg"
+  },
+  {
+    "id": "flight-for-life-colorado",
+    "name": "Flight For Life Colorado",
+    "category": "group-special",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: A person authorized by St. Anthony Health Foundation will be issued a certificate valid for one set of plates. Requirements: Qualifying person must donate $25.00 to Flight For Life Colorado for each authorizing certificate. Contact Flight For Life Colorado at Common Spirit Website Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: Flight For Life Colorado Plate Options: Information : Research Colorado Revised Statute 42-3-244.",
+    "image": "/plates/flight-for-life-colorado.jpg"
+  },
+  {
+    "id": "girl-scouts",
+    "name": "Girl Scouts",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per Senate Bill 11-197. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person that desires to register their vehicle with the Girl Scout license plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited. Plate Options: Information : Research Colorado Revised Statute 42-3-237.",
+    "image": "/plates/girl-scouts.jpg"
+  },
+  {
+    "id": "greyhound-lovers",
+    "name": "Greyhound Lovers",
+    "category": "group-special",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes. Who Qualifies : Any person that desires to register their vehicle with the Greyhound Lovers plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Plate Options: Information: Research Colorado Revised Statute 42-3-207",
+    "image": "/plates/greyhound-lovers.jpg"
+  },
+  {
+    "id": "hospice-and-palliative",
+    "name": "Hospice and Palliative",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 21-1128. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : The Hospice and Palliative Care license plate may be issued to a person authorized by the nonprofit Colorado Center for Hospice & Palliative Care who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements : Qualifying person must donate $50.00 to the Colorado Center for Hospice & Palliative Care for each authorizing certificate. Contact the Colorado Center for Hospice & Palliative Care at www.homecarehospicecolorado.org . Fees : One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One license plate set (single for motorcycle) per authorized certificate. Online : www.homecarehospicecolorado.org Plate Options: Information : Research Colorado Revised Statute 42-3-256.",
+    "image": "/plates/hospice-and-palliative.png"
+  },
+  {
+    "id": "in-god-we-trust",
+    "name": "In God We Trust",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per Senate Bill 23-025. Available For : Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : Anyone Requirements : None Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Online : myDMV.colorado.gov Plate Options: Information : Research Colorado Revised Statute 42-3-268.",
+    "image": "/plates/in-god-we-trust.png"
+  },
+  {
+    "id": "italian-american-heritage",
+    "name": "Italian American Heritage",
+    "category": "group-special",
+    "description": "About : Creation of this plates was per House Bill 07-1120. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person that desires to register their vehicle with the Italian American plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited. Plate Options : Information: Research Colorado Revised Statute 42-3-225.",
+    "image": "/plates/italian-american-heritage.jpg"
+  },
+  {
+    "id": "juvenile-diabetes-research-foundation",
+    "name": "Juvenile Diabetes Research Foundation",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per House Bill 11-1166. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: Any person that desires to register their vehicle with the Juvenile Diabetes Research Foundation license plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited. Plate Options: Information: Research Colorado Revised Statute 42-3-238.",
+    "image": "/plates/juvenile-diabetes-research-foundation.png"
+  },
+  {
+    "id": "kids-first",
+    "name": "Kids First",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per Senate Bill 06-110. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by the Rocky Mountain Research and Prevention Institute will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $30.00 to the Rocky Mountain Research and Prevention Institute for each authorizing certificate. Contact the Rocky Mountain Research and Prevention Institute organization at (303)330-5099. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. Online: Colorado Kids 1st Plate Options : Information : Research Colorado Revised Statute 42-3-224.",
+    "image": "/plates/kids-first.jpg"
+  },
+  {
+    "id": "mesa-verde-national-park",
+    "name": "Mesa Verde National Park",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 19-1255. Who Qualifies: Mesa Verde National Park license plate will be issued a certificate valid for one set (single if a motorcycle). Requirements : Qualifying person must donate to the Mesa Verde Foundation for each authorizing certificate. Contact Mesa Verde Foundation at https://www.mesaverdefoundation.org/ or 303-321-3120. Fees: A one-time fee of $50.00 will be collected for issuance or replacement of plates. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycles) per authorized certificate PIN. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Plate Options: Online: https://www.mesaverdefoundation.org/about/ Information: Research Colorado Revised Statute 42-3-253.",
+    "image": "/plates/mesa-verde-national-park.jpg"
+  },
+  {
+    "id": "pikes-peak-hill-climb",
+    "name": "Pikes Peak Hill Climb",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per Senate Bill 22-107. Available For : Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : The Pikes Peak International Hill Climb license plate may be issued to a person. Requirements: Pay all the regular Registration taxes and fees. Fees: One time fee of $50 in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One license plate set (single for motorcycle) per authorized certificate. Online : https://ppihc.org/colorado-dmv-issues-ppihc-license-plate/ Plate Options: Information: Research Colorado Revised Statute 42-3-264.",
+    "image": "/plates/pikes-peak-hill-climb.png"
+  },
+  {
+    "id": "pioneer",
+    "name": "Pioneer",
+    "category": "group-special",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes. Who Qualifies : Any person that desires to register their vehicle with the Pioneer plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Plate Options: Information : Research Colorado Revised Statute 42-3-207",
+    "image": "/plates/pioneer.jpg"
+  },
+  {
+    "id": "protect-our-rivers",
+    "name": "Protect Our Rivers",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per House Bill 13-224. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, and motorcycles. Who Qualifies: A person authorized by Colorado Trout Unlimited will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $25.00 to Colorado Trout Unlimited for each authorizing certificate. For more information please visit www.protectourrivers.net Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Online : www.protectourrivers.net Plate Options : Information : Research Colorado Revised Statute 42-3-246",
+    "image": "/plates/protect-our-rivers.jpg"
+  },
+  {
+    "id": "pueblo-chile",
+    "name": "Pueblo Chile",
+    "category": "group-special",
+    "description": "About : Creation of this plate was per Senate Bill 17-1012. Who Qualifies: The Pueblo Chile license plate may be issued to any person that desires to register their vehicle with the Pueblo Chile license plate. Requirements: None Fees: A one-time fee of $50.00 will be collected for issuance or replacement of plates. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited. Plate Options: Information: Research Colorado Revised Statute 42-3-250.",
+    "image": "/plates/pueblo-chile.jpg"
+  },
+  {
+    "id": "raptor",
+    "name": "Raptor",
+    "category": "group-special",
+    "description": "About: Please visit the Raptor Education Foundation website. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles Who Qualifies: A person authorized by the Raptor Education Foundation will be issued a certificate valid for one set of plates. Requirements: Qualifying person must pay membership dues as required by the Raptor Education Foundation for each authorizing certificate. Contact the Raptor Education Foundation at (303)680-8500 or at https://www.usaref.org/ . Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: One plate set per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: Raptor Education Foundation Plate Options: Information: Research Colorado Revised Statute 42-3-207 and 42-3-208.",
+    "image": "/plates/raptor.jpg"
+  },
+  {
+    "id": "rocky-mountain-national-park",
+    "name": "Rocky Mountain National Park",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per House Bill 15-1313 Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by Rocky Mountain Conservancy will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $50.00 to Rocky Mountain Conservancy for each authorizing certificate. Please visit the Rocky Mountain Conservancy at https://rmconservancy.org for more information. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online : Rocky Mountain Conservancy at https://rmconservancy.org . Plate Options: Information : Research Colorado Revised Statute 42-3-249.",
+    "image": "/plates/rocky-mountain-national-park.jpg"
+  },
+  {
+    "id": "rotary-international",
+    "name": "Rotary International",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 21-1154. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The Colorado Rotary license plate may be issued to a person authorized by their local Rotary Club. Requirements : Provide the letter of certification from your local Rotary Secretary. Fees: in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One license plate set (single for motorcycle) per authorized certificate. Plate Options: Information: Research Colorado Revised Statute 42-3-262.",
+    "image": "/plates/rotary-international.png"
+  },
+  {
+    "id": "share-the-road",
+    "name": "Share the Road",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per Senate Bill 07-067. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by Bicycle Colorado will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $25.00 to Bicycle Colorado for each authorizing certificate. Purchase your certificates online at https://www.bicyclecolorado.org/get-involved/share-the-road/ or by contacting Bicycle Colorado at (303) 417-1544 extension 101. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycles) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online : Bicycle Colorado, Inc. Plate Options : Information: Research Colorado Revised Statute 42-3-226.",
+    "image": "/plates/share-the-road.jpg"
+  },
+  {
+    "id": "ski-country-usa",
+    "name": "Ski Country USA",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per Senate Bill 09-161. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person that desires to register their vehicle with the Ski County USA license plate. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited Plate Options: Information: Research Colorado Revised Statute 42-3-231.",
+    "image": "/plates/ski-country-usa.jpg"
+  },
+  {
+    "id": "special-olympics",
+    "name": "Special Olympics",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 21-1323. Available For : Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : The Special Olympics Colorado license plate may be issued to a person authorized by the nonprofit Special Olympics Colorado who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements : Qualifying person must donate $60.00 to the Special Olympics Colorado for each authorizing certificate. Contact the Special Olympics Colorado at https://specialolympicsco.org/give/licenseplate/ Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One license plate set (single for motorcycle) per authorized certificate. Online : https://specialolympicsco.org/give/licenseplate/ Plate Options: Information : Research Colorado Revised Statute 42-3-260.",
+    "image": "/plates/special-olympics.png"
+  },
+  {
+    "id": "state-parks",
+    "name": "State Parks",
+    "category": "group-special",
+    "description": "About: Creation of this plate was per Senate Bill 10-103. Available For: Passenger vehicles, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by The Foundation for Colorado State Parks will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $44.00 to The Foundation for Colorado State Parks for each authorizing certificate. Contact The Foundation for Colorado State Parks at the web address listed below. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: The Foundation for Colorado State Parks. Plate Options: Information: Research Colorado Revised Statute 42-3-233.",
+    "image": "/plates/state-parks.png"
+  },
+  {
+    "id": "stegosaurus",
+    "name": "Stegosaurus",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per Senate Bill 23-0145. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: Anyone Requirements: Applicant makes a $50 donation to Friends of Dinosaur Ridge Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees: A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: Unlimited Online: myDMV.colorado.gov https://dinoridge.org Plate Options: Information: Research Colorado Revised Statute 42-3-269.",
+    "image": "/plates/stegosaurus.png"
+  },
+  {
+    "id": "support-education",
+    "name": "Support Education",
+    "category": "group-special",
+    "description": "About : Please visit the Colorado School Foundations website. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: A person authorized by Colorado Schools Foundation Association will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $20.00 to Colorado School Foundations Association organization for each authorizing certificate. Visit https://www.copublicedfoundations.org/ (then scroll down to the \"Get a Colorado School Foundation plate\") or https://spotlightcolorado.com//online_sales/ie_order_plates.cfm Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: Colorado Schools Foundation Association Plate Options : Plate Options: Information: Research Colorado Revised Statute 42-3-222.",
+    "image": "/plates/support-education.jpg"
+  },
+  {
+    "id": "support-foster-families",
+    "name": "Support Foster Families",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 21-1073. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: The Support Foster Families license plate may be issued to a person authorized by the nonprofit Foster Source who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements : Qualifying person must donate $50.00 to Foster Source for each authorizing certificate. Contact Foster Source at FosterSource.org . Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One license plate set (single for motorcycle) per authorized certificate. Online : www.FosterSource.org Plate Options: Information: Research Colorado Revised Statute 42-3-255.",
+    "image": "/plates/support-foster-families.png"
+  },
+  {
+    "id": "support-pollinators",
+    "name": "Support Pollinators",
+    "category": "group-special",
+    "description": "About: Creation of this license plate was per House Bill 21-1145. Available For : Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies : The Support Pollinators license plate may be issued to a person authorized by the nonprofit People and Pollinators Action Network who will be issued a certificate valid for one set of license plates (single for motorcycle). Requirements : Qualifying person must make a donation on a sliding scale of $25 to $50 to the People and Pollinators Action Network for each authorizing certificate. Contact the People and Pollinators Action Network at www.peopleandpollinators.org . Fees: One-time fee of $50.00 for issuance or replacement of the license plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One license plate set (single for motorcycle) per authorized certificate. Online: www.peopleandpollinators.org . Plate Options : Information : Research Colorado Revised Statute 42-3-257.",
+    "image": "/plates/support-pollinators.png"
+  },
+  {
+    "id": "support-the-10th-mountain-division",
+    "name": "Support the 10th Mountain Division",
+    "category": "group-special",
+    "description": "About : This commemorative plate recognizes the men from the 10th Mountain Division who fought in the Italian Campaign of 1945. This plate was created per House Bill 14-1089 Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- (IRP) or recreation vehicles. Who Qualifies : Any person authorized by the 10th Mountain Foundation may be issued a certificate valid for one set of plates. Requirements : Individuals are required to donate $45 to the 10th Mountain Division Foundation to receive a certificate authorizing them to be issued a Support the 10th Mountain Division license plate. Fees: One time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Owners of the 10th Mountain Division Group Special License Plate prior to January 1, 2015 are exempt the issuance fees, pursuant to 42-3-208(1)(e)(I). Number of Plates Allowed: One plate set per authorization. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Information : Research Colorado Revised Statute 42-3-208.",
+    "image": "/plates/support-the-10th-mountain-division.jpg"
+  },
+  {
+    "id": "support-the-horse",
+    "name": "Support the Horse",
+    "category": "group-special",
+    "description": "About: Creation of this plates was per Senate Bill 08-178. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : Any person authorized by the Colorado Horse Development Authority may be issued a certificate valid for one set of plates (single for Motorcycle). Requirements : Donate $40.00 to the Colorado Horse Development Authority for each authorizing certificate. Contact the Colorado Horse Development Authority at (303) 292-4981. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Support the Horse license plate applicants can apply for a personalized license plate online, or in person at county motor vehicle office. Number of Plates Allowed : One plate set (single for motorcycle) per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plates. Online : Colorado Horse Development Authority Plate Options : Information : Research Colorado Revised Statute 42-3-227",
+    "image": "/plates/support-the-horse.jpg"
+  },
+  {
+    "id": "support-the-troops",
+    "name": "Support the Troops",
+    "category": "group-special",
+    "description": "About: Please visit the American Military Family website . Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : A person authorized by the American Military Family will be issued a certificate valid for one set of plates. Requirements : Qualifying person must donate $25.00 to American Military Family for each authorization certificate. Contact the American Military Family at (303)746-8195. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Personalized License Plate Fees :A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed: One plate set (single for motorcycle) per authorization. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Online: American Military Family Plate Options : Information : Research Colorado Revised Statute 42-3-223.",
+    "image": "/plates/support-the-troops.jpg"
+  },
+  {
+    "id": "wildlife-sporting",
+    "name": "Wildlife Sporting",
+    "category": "group-special",
+    "description": "About: The Wildlife Sporting license plate was created with House Bill 12-1275 Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : Any person that desires to register their vehicle with the Wild Life Sporting plate. Requirements: None Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Initial donation of $10 is distributed to C.R.S. 33-1-112 and an annual renewal fee of $25 distributed to 33-1-112 Personalized License Plate Fees : A one-time fee of $60 with an annual $25 fee collected each year thereafter upon renewal. The center logo is not printed on personalized license plates. Number of Plates Allowed : Unlimited Plate Options: Information: Research Colorado Revised Statute 42-3-245.",
+    "image": "/plates/wildlife-sporting.jpg"
+  },
+  {
+    "id": "4th-infantry",
+    "name": "4th Infantry",
+    "category": "military",
+    "description": "About :  Creation of this plate was per House Bill 08-1175. Available For : Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  The 4th Infantry Division license plate may be issued to any person that desires to show support for the U.S. Army 4th Infantry Division. Requirements :  None Fees :  One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited Plate Options :  None Information : Research Colorado Revised Statute 42-3-213 (20)",
+    "image": "/plates/4th-infantry.JPG"
+  },
+  {
+    "id": "bronze-star",
+    "name": "Bronze Star",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person who can demonstrate being awarded the Bronze Star medal. Requirements: Qualifying person must submit a copy of form DD214 (issued by the U.S. Government) or military orders that demonstrate being awarded the Bronze Star medal,  and Military License Plate Application (Form DR 2002) Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Military License Plate Application (Form DR 2002) Information: Research Colorado Revised Statute 42-3-213 (14).",
+    "image": "/plates/bronze-star.JPG"
+  },
+  {
+    "id": "civil-air-patrol",
+    "name": "Civil Air Patrol",
+    "category": "military",
+    "description": "About : Creation of this plate was per House Bill 13-060 Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: A natural person who supports the Civil Air Patrol may use the Civil Air Patrol license plate Requirements : None Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Plate Options : None Information : Research Colorado Revised Statute 42-2-213(27) Military License Plate Application (Form DR 2002)",
+    "image": "/plates/civil-air-patrol.JPG"
+  },
+  {
+    "id": "disabled-veteran-handicapped",
+    "name": "Disabled Veteran Handicapped",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies : Any person who can demonstrate being 50% or more, Service-connected disabled AND physical impairment verified in writing by a Colorado or border states licensed physician, Commissioned Medical Officer, advanced practice nurse, physician assistant, or podiatrist. Requirements : Qualifying person must submit a qualification letter or Benefits Summary from the Veterans Administration. A copy of letter from the Veteran Administration or letter from their branch of service stating that the qualifying person is 50% or more, Service-Connected Disabled. A copy of their verified written physical impairment letter. A completed Application for Persons with Disabilities Parking Privileges form. Handicap Disabled Veteran License Plate Checklist Information : Research Colorado Revised Statute 42-3-104(5), 42-3-213, 42-3-204 and 42-3-304(3)(A). Persons with Disabilities Parking Privileges Application (Form DR 2219) Military License Plate Application (Form DR 2002) To Obtain a Set: Please visit your county motor vehicle office . Fees : The first set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(B). A second set will include issuance and material fees. Number of Plates Allowed: One set only. Please note: For assistance in ensuring correct documentation is being submitted and to speed up the issuance process, please print and use the Handicap Disabled Veteran License Plate Checklist.",
+    "image": "/plates/disabled-veteran-handicapped.JPG"
+  },
+  {
+    "id": "distinguished-service-cross",
+    "name": "Distinguished Service Cross",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who can demonstrate being awarded the Distinguished Service Cross medal. Requirements :  Qualifying person must submit a copy of form DD214 (Issued by the U.S. Government) or military orders that demonstrate being awarded the Distinguished Service Cross medal, along with the Military License Plate Application (Form DR 2002). Second and additional sets may be obtained at respective resident County Motor Vehicle Offices. Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(E). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Only the first set is exempt from fees. Information : Research Colorado Revised Statute 42-3-213. Military License Plate Application (Form DR 2002)",
+    "image": "/plates/distinguished-service-cross.JPG"
+  },
+  {
+    "id": "fallen-army",
+    "name": "Fallen Army",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: See requirements. Applicant must submit Military License Plate Application to their county motor vehicle office Requirements : The current or past spouse, child, sibling, grandparent or parent of the service member must provide acceptable proof such as: birth/death certificates, census records, historical archives, military records, etc. The service member died in the line of duty while serving in the armed forces. Acceptable proof: service member's DD214, service record, officially issued documents or death certificates, etc. Fees :  One set of plates is not charged the one-time issuance fee pursuant to section 42-3-213(1)(b)(II)(G), C.R.S. Other taxes and fees apply. A second, or additional set, requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Military License Plate Application (Form DR 2002) Information: Research Colorado Revised Statute 42-3-213.",
+    "image": "/plates/fallen-army.JPG"
+  },
+  {
+    "id": "fallen-marine",
+    "name": "Fallen Marine",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: See requirements on form. Applicant must submit Military License Plate Application (Form DR 2002) to their county motor vehicle office. Requirements: The current or past spouse, child, sibling, grandparent or parent of the service member must provide acceptable proof such as: birth/death certificates, census records, historical archives, military records, etc. The service member died in the line of duty while serving in the armed forces. Acceptable proof: service members DD214, service record, officially issued documents or death certificates, etc. Fees :  One set of plates is not charged the one-time issuance fee pursuant to section 42-3-213(1)(b)(II)(G), C.R.S. Other taxes and fees apply. A second, or additional set, requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited . Military License Plate Application (Form DR 2002) Information :  Research Colorado Revised Statute 42-3-213.",
+    "image": "/plates/fallen-marine.JPG"
+  },
+  {
+    "id": "honorably-discharged-veteran",
+    "name": "Honorably Discharged Veteran",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who can demonstrate being honorably discharged or is a discharged LGBTQ veteran, or retired from any branch of the U.S. Armed Services. Requirements: Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Information : Research Colorado Revised Statute 42-3-213 (4). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/honorably-discharged-veteran.JPG"
+  },
+  {
+    "id": "medal-of-honor",
+    "name": "Medal Of Honor",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : Any person who can demonstrate being awarded the Medal of Honor. Requirements : To Obtain a Set : The Medal of Honor plate is only issued by the State Vehicle Services Section. Vehicle Services Section will work with the Honoree to create a customized plate according to their wishes. Please reach out to the Vehicle Services Section at dor_countyinventorysupport@state.co.us or by mail or in person below. Please be sure to complete the Military License Plate Application linked below and be prepared to present your DD214. Division of Motor Vehicles Department of Revenue 1881 Pierce Street Lakewood, Colorado 80214-3503 Department of Revenue Vehicle Services Section P.O. Box 173350 Denver, CO 80217-3350 Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(C). A second or additional set requires a one-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Only the first set is exempt from fees. Information : Research Colorado Revised Statute 42-3-213 (7). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/medal-of-honor.JPG"
+  },
+  {
+    "id": "navy-cross",
+    "name": "Navy Cross",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person awarded the Navy Cross medal. Requirements : Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(E). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed :  Unlimited. Military License Plate Application (Form DR 2002) Information: Research Colorado Revised Statute 42-3-213 (10)(c)(I).",
+    "image": "/plates/navy-cross.JPG"
+  },
+  {
+    "id": "pearl-harbor",
+    "name": "Pearl Harbor",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person who: Can demonstrate being a member of the U.S. Armed Services on 12/07/1941, stationed at Pearl Harbor during the hours of 7:55 a.m. to 9:45 a.m. (Hawaii time) Has received an honorable discharge or is a discharged LGBTQ veteran Holds a current membership in a national organization of Pearl Harbor Survivors Second and additional sets may be obtained at respective resident County Motor Vehicle Offices. Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(F). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed :  Unlimited. Military License Plate Application (Form DR 2002) Requirements : Qualifying person must submit the Military License Plate Application (Form DR 2002). Information : Research Colorado Revised Statute 42-3-213 (6).",
+    "image": "/plates/pearl-harbor.JPG"
+  },
+  {
+    "id": "purple-heart",
+    "name": "Purple Heart",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person awarded the Purple Heart medal. Requirements : Qualifying person must submit a copy of form DD214 (issued by the U.S. Government) or military orders that demonstrate being awarded the Purple Heart medal, along with the Military License Plate Application (Form DR 2002) Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(D). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Only the first set is exempt from fees. Military License Plate Application (Form DR 2002) Information : Research Colorado Revised Statute 42-3-213 (2).",
+    "image": "/plates/purple-heart.JPG"
+  },
+  {
+    "id": "submarine-service",
+    "name": "Submarine Service",
+    "category": "military",
+    "description": "About : Creation of this plate was per House Bill 18-1244 Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: A natural person who has received an honorable discharge or is a discharged LGBTQ veteran, is retired, or is an active or reserve member of the Submarine Service of the United States Navy may use the Submarine Service license plate Requirements: To qualify for the license plate, an applicant must submit a form DD 214 issued by the United States Government or other evidence sufficient to demonstrate the applicant is a veteran, active or reserve member of the Submarine Service of the United States Navy. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Plate Options: None Information: Research Colorado Revised Statute 42-2-213(30). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/submarine-service.JPG"
+  },
+  {
+    "id": "us-air-force",
+    "name": "U.S. Air Force",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person who has received an honorable discharge or is a discharged LGTBQ veteran, or is retired, or is an active or reserve member of the U.S. Air Force. Requirements :  Submit a copy of form DD214 (issued by the U.S. Government), or submit other evidence proving the person is a veteran or reserve member or active member of any component of the U.S. Air Force. Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (17). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-air-force.JPG"
+  },
+  {
+    "id": "us-army-10th-mountain-division",
+    "name": "U.S. Army 10th Mountain Division",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person who is a veteran, a reserve member or active member of 10th Mountain Division of the U.S. Army. Requirements: Submit a copy of form DD214 (issued by the U.S. Government), or other evidence of being a veteran, reserve member or active member of the 10th Mountain Division of the U.S. Army. Fees: One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information: Research Colorado Revised Statute 42-3-213 (29). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-army-10th-mountain-division.JPG"
+  },
+  {
+    "id": "us-coast-guard",
+    "name": "U.S. Coast Guard",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who has received an honorable discharge or is a discharged LGBTQ veteran, or is retired, or is an active auxiliary or reserve member of the U.S. Coast Guard Requirements :  Submit a copy of form DD214 (issued by the U.S. Government), or submit other evidence proving the person is a veteran or reserve member or active member of any component of the U.S. Coast Guard. Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Information : Research Colorado Revised Statute 42-3-213 (16). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-coast-guard.JPG"
+  },
+  {
+    "id": "us-navy",
+    "name": "U.S. Navy",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who has received an honorable discharge or is a discharged LGBTQ veteran, or is retired, or is an active or reserve member of the U.S. Navy. Requirements : Submit a copy of form DD214 (issued by the U.S. Government), or submit other evidence to prove the person is a veteran, reserve member, or active member of any component of the U.S. Navy. Fees : One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (13). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-navy.jpg"
+  },
+  {
+    "id": "us-navy-seabees",
+    "name": "U.S. Navy Seabees",
+    "category": "military",
+    "description": "About: Creation of this license plate was per Senate Bill 23-212. Available For : Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies :  Honorably Discharged Veteran, Retired, Active, or Reserve Members of a Construction Battalion of the United States Navy (including women veterans, and discharge LGBT veterans). Requirements : Qualifying person must submit a copy of form DD214 (issued by the U.S. Government) or military orders that demonstrate they are or were members of a Construction Battalion of the United States Navy.  (For the PWD versions of these plates, the DR 2219 will be required as detailed in CRS 42-3-204. Fees : One set of plates is exempt from fees allowed by CRS 43-3-213(1)(b)(II)(D). A second or additional set requires a one-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited, only the first set is exempt from fees. Plate Options: Information : Research Colorado Revised Statute 42-3-213 (34). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-navy-seabees.png"
+  },
+  {
+    "id": "uss-colorado",
+    "name": "USS Colorado",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any natural person who supports the USS Colorado (SSN 788) Requirements : None Fees : One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (28). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/uss-colorado.JPG"
+  },
+  {
+    "id": "veteran-of-iraq-war",
+    "name": "Veteran of Iraq War",
+    "category": "military",
+    "description": "About : Creation of this plate was per House Bill 10-1139. Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : An individual that is a natural person who was a member of the United States Armed Services between March 20, 2003, and the end of the conflict. Requirements : Qualifying individual must submit a copy of form DD214 (issued by the U.S. Government), military identification, or other such documents showing dates of service between March 20, 2003 and the end of the conflict. Fees: One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Plate Options : None Information : Research Colorado Revised Statute 42-3-213(22). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/veteran-of-iraq-war.JPG"
+  },
+  {
+    "id": "veteran-of-world-war-ii",
+    "name": "Veteran of World War II",
+    "category": "military",
+    "description": "About : Creation of this plate was per Senate Bill 11-037. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : The service member served in the armed forces between September 16, 1940 and July 25, 1947 Requirements : Complete the Military License Plate Application (Form DR 2002). Acceptable proof is the service members DD-214, showing service between September 16, 1940 and July 25, 1947 or separation papers indicating service during this time frame. Upon authorization, plates will be mailed to the County of residence for the qualified Veteran. Fees : One set of plates is not charged the one-time issuance fee pursuant to section 42-3-213(1)(b)(II)(G), C.R.S. Other taxes and fees apply. A second, or additional set, requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Military License Plate Application (Form DR 2002) Information : Research Colorado Revised Statute 42-2-213 (23).",
+    "image": "/plates/veteran-of-world-war-ii.JPG"
+  },
+  {
+    "id": "air-force-cross",
+    "name": "Air Force Cross",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who can demonstrate being awarded the Air Force Cross Medal Requirements: Qualifying person must submit a copy of DD214 form (issued by the U.S. Government) or military orders that demonstrate being awarded the Air Force Cross medal, along with the Military License Plate Application (Form DR 2002) Military License Plate Application (Form DR 2002) Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(E). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Exempt - One set only. Second and additional - Unlimited. Information: Research Colorado Revised Statute 42-3-213 (10)(c)(III).",
+    "image": "/plates/air-force-cross.JPG"
+  },
+  {
+    "id": "bronze-star-for-valor",
+    "name": "Bronze Star for Valor",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : Any person who can demonstrate being awarded the Bronze Star for Valor medal. Requirements : Qualifying person must submit a copy of form DD214 (issued by the U.S. Government) or military orders that demonstrate being awarded the Bronze Star for Valor medal, and Military License Plate Application (Form DR 2002). Fees : One time fee of $50 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Information : Research Colorado Revised Statute 42-3-213 (14). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/bronze-star-for-valor.JPG"
+  },
+  {
+    "id": "disabled-veteran",
+    "name": "Disabled Veteran",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who can demonstrate being 50% or more Service-Connected Disabled. Requirements : Qualifying person must submit a qualification letter or Benefits Summary from the Veteran Administration or letter from their branch of service stating that the qualifying person is fifty percent or more, service-connected, or for loss of use of one or both feet or one or both hands, or for permanent impairment or loss of vision in both eyes that constitutes virtual or actual blindness PLUS proof of honorable discharge from a branch of the Armed Services of the United States (Proof may be on the DD 214 or other discharge documents issued by the Armed Services of the United States) To Obtain a Set: Please visit your County Motor Vehicle Office . Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(B). A second or additional set requires a one-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Exempt - One set only. Second and additional - Unlimited. Please note: Military License Plate Application (Form DR 2002) Disabled Veteran License Plate Checklist Information: Research Colorado Revised Statute 42-3-213 (5).",
+    "image": "/plates/disabled-veteran.JPG"
+  },
+  {
+    "id": "disabled-women-veteran",
+    "name": "Disabled Women Veteran",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: A Woman veteran of the United States Armed Forces who can demonstrate being 50% or more Service-Connected Disabled. Requirements: Qualifying person must submit a qualification letter or Benefits Summary from the Veterans Administration Veteran Administration or letter from their military service branch stating that the qualifying person is 50% or more, service-connected, or for loss of use of one or both feet or one or both hands, or for permanent impairment or loss of vision in both eyes that constitutes virtual or actual blindness. Honorable discharge from a branch of the Armed Services of the United States (Proof may be on the DD 214 or other discharge documents issued by the Armed Services of the United States) Second and additional sets may be obtained at respective resident County Motor Vehicle Offices. Fees: One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(B). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Exempt - One set only. Second and additional - Unlimited. Please note: Information: Research Colorado Revised Statute 42-3-213 (32). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/disabled-women-veteran.png"
+  },
+  {
+    "id": "distinguished-flying-cross",
+    "name": "Distinguished Flying Cross",
+    "category": "military",
+    "description": "Available Fo r: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies :  Any person who can demonstrate being awarded the Distinguished Flying Cross medal. Requirements :  Qualifying person must submit a copy of form DD214 (Issued by the U.S. Government) or military orders that demonstrate being awarded the Distinguished Flying Cross medal, along with the Military License Plate Application (Form DR 2002). Second and additional sets may be obtained at respective resident County Motor Vehicle Offices. Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(E). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Only the first set is exempt from fees. Information : Research Colorado Revised Statute 42-3-213 (25). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/distinguished-flying-cross.JPG"
+  },
+  {
+    "id": "fallen-air-force",
+    "name": "Fallen Air Force",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : See requirements. Applicant must submit Military License Plate Application (Form DR 2002) to their county motor vehicle office Requirements : The current or past spouse, child, sibling, grandparent or parent of the service member must provide acceptable proof such as: birth/death certificates, census records, historical archives, military records, etc. The service member died in the line of duty while serving in the armed. Acceptable proof: service member's DD214, service record, officially issued documents or death certificates, etc. Military License Plate Application (Form DR 2002) Fees : One set of plates is not charged the one-time issuance fee pursuant to section 42-3-213(1)(b)(II)(G), C.R.S. Other taxes and fees apply. A second, or additional set, requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (1)(b)(II)(G).",
+    "image": "/plates/fallen-air-force.JPG"
+  },
+  {
+    "id": "fallen-coast-guard",
+    "name": "Fallen Coast Guard",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: See requirements. Applicant must submit Military License Plate Application (Form DR 2002) to their county motor vehicle office Requirements : The current or past spouse, child, sibling, grandparent or parent of the service member must provide acceptable proof such as: birth/death certificates, census records, historical archives, military records, etc. The service member died in the line of duty while serving in the armed forces. Acceptable proof: service member's DD214, service record, officially issued documents or death certificates, etc. Fees :  One set of plates is not charged the one-time issuance fee pursuant to section 42-3-213(1)(b)(II)(G), C.R.S. Other taxes and fees apply. A second, or additional set, requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Military License Plate Application (Form DR 2002) Information: Research Colorado Revised Statute 42-3-213.",
+    "image": "/plates/fallen-coast-guard.JPG"
+  },
+  {
+    "id": "fallen-navy",
+    "name": "Fallen Navy",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: See requirements on form. Applicant must submit Military License Plate Application (Form DR 2002) to their county motor vehicle office Requirements : Information : Research Colorado Revised Statute 42-3-213. Fees : One set of plates is not charged the one-time issuance fee pursuant to section 42-3-213(1)(b)(II)(G), C.R.S. Other taxes and fees apply. A second, or additional set, requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Military License Plate Application (Form DR 2002)",
+    "image": "/plates/fallen-navy.png"
+  },
+  {
+    "id": "korean-war-veteran",
+    "name": "Korean War Veteran",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person who can demonstrate being a member of the U.S. Armed Forces between 06/27/1950 and 01/31/1955. Requirements : Qualifying person must submit a copy of form DD214 (issued by the U.S. Government) or other military separation papers that indicate the dates of time served in the U.S. Armed Forces. Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (1)(a)(VII). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/korean-war-veteran.JPG"
+  },
+  {
+    "id": "national-guard",
+    "name": "National Guard",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies : Any person who is active or retired member of the Colorado National Guard. Applicants must submit the Military License Plate Application (Form DR 2002). Requirements : Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Military License Plate Application (Form DR 2002) Information : Research Colorado Revised Statute 42-3-218.",
+    "image": "/plates/national-guard.JPG"
+  },
+  {
+    "id": "prisoner-of-war",
+    "name": "Prisoner of War",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person who was on active duty with the U.S. Armed Forces during a period of armed conflict while incarcerated by an enemy of the United States. Requirements :  Qualifying person must submit Military License Plate Application (Form DR 2002) Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(A). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Only the first set is exempt from fees. Military License Plate Application (Form DR 2002) Information : Research Colorado Revised Statute 42-3-213 (3).",
+    "image": "/plates/prisoner-of-war.JPG"
+  },
+  {
+    "id": "silver-star",
+    "name": "Silver Star",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person awarded the Silver Star medal. Requirements : Submit a copy of form DD214 (issued by the U.S. Government) or military orders that demonstrate being awarded the Silver Star medal, along with the Military License Plate Application (Form DR 2002) Fees : One set of plates is exempt from fees allowed by CRS 42-3-213(1)(b)(II)(E). A second or additional set requires a one time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Only the first set is exempt from fees. Military License Plate Application (Form DR 2002) Information: Research Colorado Revised Statute 42-3-213 (10)(c)(IV).",
+    "image": "/plates/silver-star.JPG"
+  },
+  {
+    "id": "us-army",
+    "name": "U.S. Army",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes, motorcycles. Who Qualifies: Any person who has received an honorable discharge or is a discharged LGBTQ veteran, or is retired, or is an active or reserve member of the US Army. Requirements: Submit a copy of form DD214 (issued by the U.S. Government), or applicant submits other evidence of being a veteran, reserve member or active member of any component of the U.S. Army. Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information: Research Colorado Revised Statute 42-3-213 (12). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-army.JPG"
+  },
+  {
+    "id": "us-army-special-forces",
+    "name": "U.S. Army Special Forces",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person who has received an honorable discharge, is a discharged LGBTQ veteran or is retired, or is an active or reserve member of the U.S. Army awarded prefix \"3\" or suffix \"S\" or a designation of \"5G\", 18/180 MOS, Special Forces Tab, OSS or UNPIK-8240. Requirements : Submit a copy of form DD214 (issued by the U.S. Government), or Orders demonstrate being awarded prefix \"3\" or a designation of \"5G\", 18/180 MOS, Special Forces Tab, OSS or UNPIK-8240. Qualifying person must submit form Military License Plate Application (Form DR 2002) Military License Plate Application (Form DR 2002) Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (18).",
+    "image": "/plates/us-army-special-forces.JPG"
+  },
+  {
+    "id": "us-marine-corps",
+    "name": "U.S. Marine Corps",
+    "category": "military",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any person who has received an honorable discharge, is a discharged LGBTQ veteran or is retired, or is an active or reserve member of the U.S. Marine Corps. Requirements : Submit a copy of form DD214 (issued by the U.S. Government), or submit other evidence proving person is a veteran or reserve member or or active member of any component of the U.S. Marine Corps. Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Information : Research Colorado Revised Statute 42-3-213 (8). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-marine-corps.JPG"
+  },
+  {
+    "id": "us-women-veterans",
+    "name": "U.S Women Veterans",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies :  Any woman who has received an honorable discharge, is a discharged LGBTQ veteran or is retired, from the United States Armed Forces. Requirements : Submit a copy of form DD214  form issued by the United States government or other evidence sufficient to demonstrate that the applicant is a woman and has an honorable discharge from, or is retired from, the United States Armed Forces. Fees : One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Information : Research Colorado Revised Statute 42-3-213 (31). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-women-veterans.png"
+  },
+  {
+    "id": "us-space-force",
+    "name": "U.S. Space Force",
+    "category": "military",
+    "description": "About: Creation of this license plate was per Senate Bill 22-190. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP)) or recreational vehicles and motor homes. Who Qualifies: Any person who has received an honorable discharge, is a discharged LGTBQ veteran, or is retired, or is an active or reserve member of the U.S. Space Force. Requirements: Submit a copy of form DD214 (issued by the U.S. Government), or applicant submits other evidence of being a veteran, reserve member or active member of any component of the U.S. Space Force. Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited Plate Options: ⦁    Passenger regular license plate ⦁    Passenger PWD license plate ⦁    Motorcycle regular license plate ⦁    Motorcycle PWD license plate Information: Research Colorado Revised Statute 42-3-213 (33). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/us-space-force.png"
+  },
+  {
+    "id": "veteran-of-afghanistan-war",
+    "name": "Veteran of Afghanistan War",
+    "category": "military",
+    "description": "About : Creation of this plate was per House Bill 10-1139. Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies : An individual that is a natural person who was a member of the United States Armed Services between October 7, 2001, and the end of the conflict. Requirements : Qualifying individual must submit a copy of form DD214 (issued by the U.S. Government), military identification, or other such documents showing dates of service between October 7, 2001 and the end of the conflict. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Plate Options : None Information : Research Colorado Revised Statute 42-2-213(21). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/veteran-of-afghanistan-war.JPG"
+  },
+  {
+    "id": "veteran-of-operation-desert-storm-shield",
+    "name": "Veteran of Operation Desert Storm/ Shield",
+    "category": "military",
+    "description": "About :  Creation of this plate was per House Bill 12-1162 Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: The applicant must have been a member of the United States Armed Services between August 2, 1990 and February 28, 1991. Applicant shall provide a DD 214 form issued by the United States Government or other evidence sufficient to demonstrate that the applicant is a veteran of the armed services who served between August 2, 1990, and February 28, 1991. Fees : One-time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Plate Options : None Information : Research Colorado Revised Statute 42-3-213(24) Military License Plate Application (Form DR 2002)",
+    "image": "/plates/veteran-of-operation-desert-storm-shield.JPG"
+  },
+  {
+    "id": "vietnam-veteran",
+    "name": "Vietnam Veteran",
+    "category": "military",
+    "description": "Available For : Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles, motor homes and motorcycles. Who Qualifies: Any person who can demonstrate being a member of the U.S. Armed Forces during the Vietnam engagement (08/07/1964 - 05/07/1975). Requirements : Submit a copy of form DD214 (issued by the U.S. Government) or other separation papers that indicate the dates of time served in the U.S. Armed Forces. Fees : One time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed : Unlimited. Information : Research Colorado Revised Statute 42-3-213 (11). Military License Plate Application (Form DR 2002)",
+    "image": "/plates/vietnam-veteran.JPG"
+  },
+  {
+    "id": "air-force-academy",
+    "name": "Air Force Academy",
+    "category": "alumni",
+    "description": "Available For: Passenger cars or trucks that do not exceed sixteen thousand pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person authorized by the U.S. Air Force Academy Association & Foundation. Requirements : Qualifying person must donate $50.00 to the U.S. Air Force Academy Association & Foundation for each certificate authorizing them to be issued the Air Force Academy License plate. Fees: One-time fee of $50.00 for the issuance or replacement of plates. Number of Plates Allowed: Only one Air Force Academy license plate per certificate is allowed. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Plate Options: Air Force Academy license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Air Force Academy Association & Foundation Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/air-force-academy.png"
+  },
+  {
+    "id": "colorado-school-of-mines",
+    "name": "Colorado School of Mines",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person who has been authorized by the Colorado School of Mines Alumni Association. Each certificate is valid for one set of plates. Requirements: Qualifying person must donate $75.00 to the Colorado School of Mines Alumni Association for each authorizing certificate. Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Plate Options: Colorado School of Mines license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Colorado School of Mines Foundation Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/colorado-school-of-mines.png"
+  },
+  {
+    "id": "colorado-state-university-pueblo",
+    "name": "Colorado State University-Pueblo",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: Any person that desires to register their vehicle with  the CSU-Pueblo License Plate. Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited Plate Options: CSU Pueblo license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: CSU-Pueblo Alumni Association Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/colorado-state-university-pueblo.png"
+  },
+  {
+    "id": "fort-lewis-college",
+    "name": "Fort Lewis College",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: Is available to any person that desires to register their vehicle with the Fort Lewis College license Plate Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited Plate Options: Fort Lewis College license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/fort-lewis-college.png"
+  },
+  {
+    "id": "regis-university",
+    "name": "Regis University",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person who has been authorized by the Regis University Alumni Association. Each certificate is valid for one set of plates. Contact Regis University Alumni Association  at (800)388-2366. Requirements: Qualifying person must contact Regis University Alumni Association for each authorizing certificate. Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Plate Options: Regis University license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Regis University Alumni Association Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/regis-university.png"
+  },
+  {
+    "id": "university-of-denver",
+    "name": "University of Denver",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed sixteen-thousand pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies : A person authorized by the University of Denver Alumni Association will be issued a certificate valid for one set of plates. Requirements: Qualifying person must make a donation to the University of Denver Alumni Merit Scholarship Fund through the University of Denver Alumni Association for each authorized certificate. Fees: One-time fee of $50.00 for the issuance or replacement of plates in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of the University of Denver license plate. Plate Options: University of Denver license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: The University of Denver Alumni Association Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/university-of-denver.png"
+  },
+  {
+    "id": "western-colorado-university",
+    "name": "Western Colorado University",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed sixteen thousand pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person authorized by Western Colorado Alumni Relations will be issued a certificate valid for one set of plates. Contact the Western Colorado Alumni Relations at 970-943-3464. Requirements: Qualifying person must contact the Western Colorado Alumni Relations for each authorizing certificate. Fees: One time fee of $50.00 for issuance or replacement of plates in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of the Western Colorado Alumni license plate. Plate Options: Western Colorado University license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Western Colorado University Alumni Relations Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/western-colorado-university.png"
+  },
+  {
+    "id": "colorado-college",
+    "name": "Colorado College",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed sixteen thousand pounds empty weight, noncommercial or recreation vehicles and motor homes. Who Qualifies: Is available to any person who desires to register their vehicle with the Colorado College license Plate Fees: One-time fee of $50.00 for the issuance or replacement in addition to other taxes and fees. Plate Options: Colorado College license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/colorado-college.png"
+  },
+  {
+    "id": "colorado-state-university",
+    "name": "Colorado State University",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 lbs empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person who has been authorized by the CSU Alumni Association. Each certificate is valid for one set of plates. Requirements: Qualifying person must donate $100.00 to the CSU Alumni Association for each authorizing certificate. Fees: One-time fee of $50.00 for the issuance or replacement in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. Plate Options: Colorado State University license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Colorado State University Alumni Association Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/colorado-state-university.png"
+  },
+  {
+    "id": "colorado-mesa-university",
+    "name": "Colorado Mesa University",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: Is available to any person that desires to register their vehicle with the Colorado Mesa University license Plate Fees: One time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: Unlimited. Plate Options: Colorado Mesa license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/colorado-mesa-university.png"
+  },
+  {
+    "id": "metropolitan-state-university-of-denver",
+    "name": "Metropolitan State University of Denver",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person authorized by the Metropolitan State University of Denver Alumni Association. Each certificate is valid for one set of plates. Contact the Metropolitan State University of Denver Alumni Association at (303)615-0055. Requirements: Qualifying person must donate $50.00 to the Metropolitan State University of Denver Alumni Association for each authorizing certificate. Fees: One-time fee of $50.00 for issuance and replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of plate. Plate Options: MSU Denver license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Metropolitan State University of Denver Alumni Association Information: Research Colorado Revised Statute 42-3-214.",
+    "image": "/plates/metropolitan-state-university-of-denver.png"
+  },
+  {
+    "id": "university-of-colorado-boulder",
+    "name": "University of Colorado - Boulder",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed sixteen-thousand pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: Anyone who makes at least a $50 donation to the CU Boulder License Plate Scholarship Fund.  Once your scholarship donation is received, you will receive a certificate validating your eligibility to receive the plate.  Complete the donation online at www.buffplates.com or by contacting the CU Boulder Alumni Association at 303-492-8484 or (800) 492-7743. Requirements: Qualifying person must donate $50.00 to the CU Boulder Alumni Association for each certificate. Fees: One-time fee of $50.00 for issuance or replacement of plates in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of the CU Boulder Alumni Association license plate. Plate Options: CU Boulder Alumni Association license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: University of Colorado Boulder Alumni Association Information: Research Colorado Revised Statute 42-3-214",
+    "image": "/plates/university-of-colorado-boulder.png"
+  },
+  {
+    "id": "university-of-colorado-other-campuses",
+    "name": "University of Colorado - Other Campuses",
+    "category": "alumni",
+    "description": "About: Creation of this license plate was pursuant to 1 CCR 204-10 Rule 45 Alumni License Plates. Available For: Motorcycles, Passenger cars, trucks that do not exceed 16,000 pounds empty weight, noncommercial (not available for any vehicle registered as Tax Class A – International Registration Plan (IRP) or recreational vehicles and motor homes. Who Qualifies: Anyone who makes the required donation ($50) to the University of Colorado License Plate Donation page . Requirements: None Fees: One time fee of $50.00 for issuance or replacement of plates, in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. Plate Options: University of Colorado-Other Campus license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: Colorado License Plate Donation page Plate Options: Information: Research 1 CCR 204-10 Rule 45 Alumni License Plates.",
+    "image": "/plates/university-of-colorado-other-campuses.png"
+  },
+  {
+    "id": "university-of-northern-colorado",
+    "name": "University of Northern Colorado",
+    "category": "alumni",
+    "description": "Available For: Passenger cars, trucks that do not exceed sixteen thousand pounds empty weight, noncommercial (not available for any vehicle registered Tax Class A- International Registration Plan- IRP) or recreation vehicles and motor homes. Who Qualifies: A person authorized by the University of Northern Colorado Alumni Association will be issued a certificate valid for one set of plates. Contact the University of Northern Colorado Alumni Association at (970) 351-2551. Requirements: Qualifying person must donate $50.00 to the UNC Alumni Association for each certificate. Fees: One-time fee of $50.00 for issuance or replacement of plates in addition to other taxes and fees. Number of Plates Allowed: One per authorized certificate. The County Motor Vehicle Office will retain and destroy the certificate upon issuance of the University of Northern Colorado license plate. Plate Options: University of Northern Colorado license plate applicants can apply for a license plate online , or in person at county motor vehicle office. Online: University of Northern Colorado Alumni Association Information: Research Colorado Revised Statute 42-3-214",
+    "image": "/plates/university-of-northern-colorado.png"
+  }
+]

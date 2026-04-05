@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Colorado Plate Spotter</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <div class="header-logo">
+      <span class="eyebrow">Colorado</span>
+      <h1>Plate <span>Spotter</span></h1>
+    </div>
+    <div class="stats">
+      <div class="stat">
+        <span class="stat-num" id="statTotal">0</span>
+        <span class="stat-label">Total</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num spotted-color" id="statSpotted">0</span>
+        <span class="stat-label">Spotted</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num" id="statLeft">0</span>
+        <span class="stat-label">Left</span>
+      </div>
+    </div>
+  </div>
+  <div class="progress-bar-wrap">
+    <div class="progress-bar-fill" id="progressBar"></div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <span class="search-icon">&#128269;</span>
+    <input type="search" id="searchInput" placeholder="Search plates…" autocomplete="off" spellcheck="false">
+  </div>
+  <div class="filter-group" id="viewFilters">
+    <button class="filter-btn active" data-view="all">All</button>
+    <button class="filter-btn" data-view="unspotted">To Find</button>
+    <button class="filter-btn" data-view="spotted">Spotted ✓</button>
+  </div>
+  <div class="filter-group" id="catFilters">
+    <button class="filter-btn active" data-cat="all">All Types</button>
+    <button class="filter-btn" data-cat="regular">Standard</button>
+    <button class="filter-btn" data-cat="group-special">Special</button>
+    <button class="filter-btn" data-cat="military">Military</button>
+    <button class="filter-btn" data-cat="alumni">Alumni</button>
+  </div>
+</div>
+
+<main>
+  <div class="results-info" id="resultsInfo"></div>
+  <div class="plates-grid" id="grid"></div>
+  <div class="empty-state" id="emptyState">
+    <div class="emoji">&#128269;</div>
+    <p>No plates match your search.</p>
+  </div>
+</main>
+
+<div class="game-strip">
+  Game: <span id="gameId">…</span> —
+  <a href="" id="copyLink">copy link</a>
+</div>
+
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>
