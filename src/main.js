@@ -64,7 +64,6 @@ const fuse = new Fuse(PLATES, {
 
 // ── FILTER STATE ──
 let activeView = 'all'
-let activeCat = 'all'
 let searchQuery = ''
 
 // ── DOM REFS ──
@@ -94,10 +93,6 @@ function filteredPlates() {
 
   if (searchQuery.length >= 2) {
     result = fuse.search(searchQuery).map(r => r.item)
-  }
-
-  if (activeCat !== 'all') {
-    result = result.filter(p => p.category === activeCat)
   }
 
   if (activeView === 'spotted') {
@@ -234,14 +229,6 @@ document.getElementById('viewFilters').addEventListener('click', e => {
   if (!btn) return
   activeView = btn.dataset.view
   document.querySelectorAll('[data-view]').forEach(b => b.classList.toggle('active', b === btn))
-  renderGrid()
-})
-
-document.getElementById('catFilters').addEventListener('click', e => {
-  const btn = e.target.closest('[data-cat]')
-  if (!btn) return
-  activeCat = btn.dataset.cat
-  document.querySelectorAll('[data-cat]').forEach(b => b.classList.toggle('active', b === btn))
   renderGrid()
 })
 
