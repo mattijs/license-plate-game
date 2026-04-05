@@ -230,14 +230,14 @@ document.getElementById('catFilters').addEventListener('click', e => {
 
 searchInput.addEventListener('input', e => {
   searchQuery = e.target.value.trim()
-  searchClear.hidden = searchQuery === ''
+  searchClear.disabled = searchQuery === ''
   renderGrid()
 })
 
 searchClear.addEventListener('click', () => {
   searchInput.value = ''
   searchQuery = ''
-  searchClear.hidden = true
+  searchClear.disabled = true
   searchInput.focus()
   renderGrid()
 })
