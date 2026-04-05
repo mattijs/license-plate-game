@@ -6,5 +6,8 @@ export default defineConfig({
     port: 7519,
     host: '0.0.0.0',
   },
+  build: {
+    target: 'es2022',
+  },
   appType: 'spa',
 })
