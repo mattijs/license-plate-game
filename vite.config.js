@@ -7,7 +7,7 @@ export default defineConfig({
     host: '0.0.0.0',
   },
   build: {
-    target: 'es2022',
+    target: 'esnext',
   },
   appType: 'spa',
 })
