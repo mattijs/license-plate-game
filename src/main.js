@@ -2,12 +2,22 @@ import Fuse from 'fuse.js'
 import './style.css'
 
 // ── ROUTING: game-id is the URL path ──
+const ACTIVE_GAME_KEY = 'co-plate-spotter-active-game'
+
 function getOrCreateGameId() {
   const base = import.meta.env.BASE_URL  // '/' in dev, '/license-plate-game/' in prod
   let path = location.pathname
   if (path.startsWith(base)) path = path.slice(base.length)
   path = path.replace(/^\//, '').trim()
   if (path && path !== 'index.html') return path
+  // No game id in URL — check localStorage for an existing active game
+  try {
+    const stored = localStorage.getItem(ACTIVE_GAME_KEY)
+    if (stored) {
+      history.replaceState({}, '', base + stored)
+      return stored
+    }
+  } catch {}
   const id = Math.random().toString(36).slice(2, 8)
   history.replaceState({}, '', base + id)
   return id
@@ -24,9 +34,13 @@ function loadState() {
   } catch { return { spotted: {} } }
 }
 function saveState() {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)) } catch {}
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+    localStorage.setItem(ACTIVE_GAME_KEY, GAME_ID)
+  } catch {}
 }
 let state = loadState()
+try { localStorage.setItem(ACTIVE_GAME_KEY, GAME_ID) } catch {}
 
 // ── LOAD PLATES ──
 const platesRes = await fetch(import.meta.env.BASE_URL + 'co/plates.json')
