@@ -5,7 +5,7 @@ Scrapes all plate designs from dmv.colorado.gov, downloads images, and
 outputs plates.json. Re-runnable: skips already-downloaded images.
 
 Usage:
-    uv run main.py [--output-dir ../public]
+    uv run co.py [--output-dir ../public]
 """
 
 import argparse
