@@ -93,13 +93,8 @@ function filteredPlates() {
 
 function renderGrid() {
   const plates = filteredPlates()
-  const spottedCount = Object.keys(state.spotted).length
   const total = PLATES.length
-
-  statTotal.textContent = total
-  statSpotted.textContent = spottedCount
-  statLeft.textContent = total - spottedCount
-  progressBar.style.width = (spottedCount / total * 100) + '%'
+  updateStats()
   gameIdEl.textContent = GAME_ID
 
   resultsInfo.textContent = plates.length === total
@@ -184,6 +179,15 @@ function createCard(plate) {
   return card
 }
 
+function updateStats() {
+  const spottedCount = Object.keys(state.spotted).length
+  const total = PLATES.length
+  statTotal.textContent = total
+  statSpotted.textContent = spottedCount
+  statLeft.textContent = total - spottedCount
+  progressBar.style.width = (spottedCount / total * 100) + '%'
+}
+
 function toggleSpotted(id) {
   if (state.spotted[id]) {
     delete state.spotted[id]
@@ -191,7 +195,19 @@ function toggleSpotted(id) {
     state.spotted[id] = Date.now()
   }
   saveState()
-  renderGrid()
+
+  // Update only this card in place — no re-render, no flicker
+  const card = grid.querySelector(`[data-id="${id}"]`)
+  if (card) {
+    const spotted = !!state.spotted[id]
+    card.classList.toggle('spotted', spotted)
+    const name = card.querySelector('.plate-name')
+    if (name) name.classList.toggle('spotted', spotted)
+  }
+
+  // If filtering by spotted/unspotted, the card may need to disappear
+  if (activeView !== 'all') renderGrid()
+  else updateStats()
 }
 
 // ── CONTROLS ──
