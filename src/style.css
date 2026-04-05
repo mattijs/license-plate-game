@@ -108,7 +108,7 @@ header {
 }
 .search-wrap input {
   width: 100%;
-  padding: 8px 12px 8px 34px;
+  padding: 8px 30px 8px 34px;
   border: 1.5px solid #ccc8bc;
   border-radius: 20px;
   font-family: var(--font-body);
@@ -127,6 +127,21 @@ header {
   font-size: 14px;
   pointer-events: none;
 }
+.search-clear {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  color: #888;
+  padding: 2px 4px;
+  line-height: 1;
+  opacity: .6;
+}
+.search-clear:hover { opacity: 1; color: #333; }
 
 .filter-group { display: flex; gap: 4px; flex-wrap: wrap; }
 .filter-btn {
