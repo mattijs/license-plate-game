@@ -61,6 +61,7 @@ const progressBar = document.getElementById('progressBar')
 const gameIdEl = document.getElementById('gameId')
 const copyLink = document.getElementById('copyLink')
 const searchInput = document.getElementById('searchInput')
+const searchClear = document.getElementById('searchClear')
 
 // ── CATEGORY LABELS ──
 const CAT_LABELS = {
@@ -229,6 +230,15 @@ document.getElementById('catFilters').addEventListener('click', e => {
 
 searchInput.addEventListener('input', e => {
   searchQuery = e.target.value.trim()
+  searchClear.hidden = searchQuery === ''
+  renderGrid()
+})
+
+searchClear.addEventListener('click', () => {
+  searchInput.value = ''
+  searchQuery = ''
+  searchClear.hidden = true
+  searchInput.focus()
   renderGrid()
 })
 
