@@ -3,10 +3,13 @@ import './style.css'
 
 // ── ROUTING: game-id is the URL path ──
 function getOrCreateGameId() {
-  const path = location.pathname.replace(/^\//, '').trim()
+  const base = import.meta.env.BASE_URL  // '/' in dev, '/license-plate-game/' in prod
+  let path = location.pathname
+  if (path.startsWith(base)) path = path.slice(base.length)
+  path = path.replace(/^\//, '').trim()
   if (path && path !== 'index.html') return path
   const id = Math.random().toString(36).slice(2, 8)
-  history.replaceState({}, '', '/' + id)
+  history.replaceState({}, '', base + id)
   return id
 }
 
@@ -26,7 +29,7 @@ function saveState() {
 let state = loadState()
 
 // ── LOAD PLATES ──
-const platesRes = await fetch('/co/plates.json')
+const platesRes = await fetch(import.meta.env.BASE_URL + 'co/plates.json')
 const PLATES_RAW = await platesRes.json()
 
 // Filter out entries without images, remap image paths
@@ -34,8 +37,8 @@ const PLATES = PLATES_RAW
   .filter(p => p.image && p.id)
   .map(p => ({
     ...p,
-    // plates.json has /plates/foo.jpg, actual path is /co/plates/foo.jpg
-    image: p.image.replace(/^\/plates\//, '/co/plates/'),
+    // plates.json has /plates/foo.jpg, actual path is co/plates/foo.jpg relative to base
+    image: p.image.replace(/^\/plates\//, import.meta.env.BASE_URL + 'co/plates/'),
   }))
 
 // ── FUSE SEARCH ──
