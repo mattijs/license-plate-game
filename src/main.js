@@ -1,22 +1,42 @@
 import Fuse from 'fuse.js'
 import './style.css'
 
-// ── ROUTING: game-id is the URL path ──
-function getOrCreateGameId() {
+// ── ROUTING ──
+function getGameIdFromUrl() {
   const base = import.meta.env.BASE_URL  // '/' in dev, '/license-plate-game/' in prod
   let path = location.pathname
   if (path.startsWith(base)) path = path.slice(base.length)
   path = path.replace(/^\//, '').trim()
   if (path && path !== 'index.html') return path
-  const id = Math.random().toString(36).slice(2, 8)
-  history.replaceState({}, '', base + id)
-  return id
+  return null
 }
 
-const GAME_ID = getOrCreateGameId()
-const STORAGE_KEY = 'co-plate-spotter-' + GAME_ID
+function generateGameId() {
+  return Math.random().toString(36).slice(2, 8)
+}
+
+// ── SCREEN TRANSITIONS ──
+function showScreen(id, instant = false) {
+  const screens = document.querySelectorAll('.screen')
+  const target = document.getElementById(id)
+  if (instant) {
+    screens.forEach(s => s.classList.remove('active', 'leaving'))
+    target.classList.add('active')
+    return
+  }
+  screens.forEach(s => {
+    if (s.classList.contains('active')) {
+      s.classList.remove('active')
+      s.classList.add('leaving')
+      setTimeout(() => s.classList.remove('leaving'), 350)
+    }
+  })
+  setTimeout(() => target.classList.add('active'), 10)
+}
 
 // ── STATE ──
+let GAME_ID, STORAGE_KEY, state, PLATES, fuse
+
 function loadState() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
@@ -26,45 +46,11 @@ function loadState() {
 function saveState() {
   try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)) } catch {}
 }
-let state = loadState()
-
-// ── LOAD PLATES ──
-const platesRes = await fetch(import.meta.env.BASE_URL + 'co/plates.json')
-const PLATES_RAW = await platesRes.json()
-
-// Filter out entries without images, remap image paths
-const PLATES = PLATES_RAW
-  .filter(p => p.image && p.id)
-  .map(p => ({
-    ...p,
-    // plates.json has /plates/foo.jpg, actual path is co/plates/foo.jpg relative to base
-    image: p.image.replace(/^\/plates\//, import.meta.env.BASE_URL + 'co/plates/'),
-  }))
-
-// ── FUSE SEARCH ──
-const fuse = new Fuse(PLATES, {
-  keys: ['name', 'description'],
-  threshold: 0.35,
-  minMatchCharLength: 2,
-})
 
 // ── FILTER STATE ──
 let activeView = 'all'
 let activeCat = 'all'
 let searchQuery = ''
-
-// ── DOM REFS ──
-const grid = document.getElementById('grid')
-const emptyState = document.getElementById('emptyState')
-const resultsInfo = document.getElementById('resultsInfo')
-const statTotal = document.getElementById('statTotal')
-const statSpotted = document.getElementById('statSpotted')
-const statLeft = document.getElementById('statLeft')
-const progressBar = document.getElementById('progressBar')
-const gameIdEl = document.getElementById('gameId')
-const copyLink = document.getElementById('copyLink')
-const searchInput = document.getElementById('searchInput')
-const searchClear = document.getElementById('searchClear')
 
 // ── CATEGORY LABELS ──
 const CAT_LABELS = {
@@ -73,6 +59,9 @@ const CAT_LABELS = {
   'military': 'Military',
   'alumni': 'Alumni',
 }
+
+// ── DOM REFS (game screen — assigned in initGame) ──
+let grid, emptyState, resultsInfo, statTotal, statSpotted, statLeft, progressBar, gameIdEl, copyLink, searchInput, searchClear
 
 // ── RENDER ──
 function filteredPlates() {
@@ -214,44 +203,126 @@ function toggleSpotted(id) {
   else updateStats()
 }
 
-// ── CONTROLS ──
-document.getElementById('viewFilters').addEventListener('click', e => {
-  const btn = e.target.closest('[data-view]')
-  if (!btn) return
-  activeView = btn.dataset.view
-  document.querySelectorAll('[data-view]').forEach(b => b.classList.toggle('active', b === btn))
-  renderGrid()
-})
-
-document.getElementById('catFilters').addEventListener('click', e => {
-  const btn = e.target.closest('[data-cat]')
-  if (!btn) return
-  activeCat = btn.dataset.cat
-  document.querySelectorAll('[data-cat]').forEach(b => b.classList.toggle('active', b === btn))
-  renderGrid()
-})
-
-searchInput.addEventListener('input', e => {
-  searchQuery = e.target.value.trim()
-  searchClear.disabled = searchQuery === ''
-  renderGrid()
-})
-
-searchClear.addEventListener('click', () => {
-  searchInput.value = ''
-  searchQuery = ''
-  searchClear.disabled = true
-  searchInput.focus()
-  renderGrid()
-})
-
-copyLink.addEventListener('click', e => {
-  e.preventDefault()
-  navigator.clipboard.writeText(location.href).then(() => {
-    copyLink.textContent = 'copied!'
-    setTimeout(() => { copyLink.textContent = 'copy link' }, 1500)
+function wireControls() {
+  document.getElementById('viewFilters').addEventListener('click', e => {
+    const btn = e.target.closest('[data-view]')
+    if (!btn) return
+    activeView = btn.dataset.view
+    document.querySelectorAll('[data-view]').forEach(b => b.classList.toggle('active', b === btn))
+    renderGrid()
   })
-})
 
-// ── INIT ──
-renderGrid()
+  document.getElementById('catFilters').addEventListener('click', e => {
+    const btn = e.target.closest('[data-cat]')
+    if (!btn) return
+    activeCat = btn.dataset.cat
+    document.querySelectorAll('[data-cat]').forEach(b => b.classList.toggle('active', b === btn))
+    renderGrid()
+  })
+
+  searchInput.addEventListener('input', e => {
+    searchQuery = e.target.value.trim()
+    searchClear.disabled = searchQuery === ''
+    renderGrid()
+  })
+
+  searchClear.addEventListener('click', () => {
+    searchInput.value = ''
+    searchQuery = ''
+    searchClear.disabled = true
+    searchInput.focus()
+    renderGrid()
+  })
+
+  copyLink.addEventListener('click', e => {
+    e.preventDefault()
+    navigator.clipboard.writeText(location.href).then(() => {
+      copyLink.textContent = 'copied!'
+      setTimeout(() => { copyLink.textContent = 'copy link' }, 1500)
+    })
+  })
+}
+
+// ── GAME INIT ──
+async function initGame(id, instant = false) {
+  if (GAME_ID) return
+  GAME_ID = id
+  STORAGE_KEY = 'co-plate-spotter-' + GAME_ID
+  showScreen('game-screen', instant)
+
+  state = loadState()
+
+  const platesRes = await fetch(import.meta.env.BASE_URL + 'co/plates.json')
+  const PLATES_RAW = await platesRes.json()
+
+  // Filter out entries without images, remap image paths
+  PLATES = PLATES_RAW
+    .filter(p => p.image && p.id)
+    .map(p => ({
+      ...p,
+      // plates.json has /plates/foo.jpg, actual path is co/plates/foo.jpg relative to base
+      image: p.image.replace(/^\/plates\//, import.meta.env.BASE_URL + 'co/plates/'),
+    }))
+
+  fuse = new Fuse(PLATES, {
+    keys: ['name', 'description'],
+    threshold: 0.35,
+    minMatchCharLength: 2,
+  })
+
+  // Assign DOM refs
+  grid = document.getElementById('grid')
+  emptyState = document.getElementById('emptyState')
+  resultsInfo = document.getElementById('resultsInfo')
+  statTotal = document.getElementById('statTotal')
+  statSpotted = document.getElementById('statSpotted')
+  statLeft = document.getElementById('statLeft')
+  progressBar = document.getElementById('progressBar')
+  gameIdEl = document.getElementById('gameId')
+  copyLink = document.getElementById('copyLink')
+  searchInput = document.getElementById('searchInput')
+  searchClear = document.getElementById('searchClear')
+
+  wireControls()
+  renderGrid()
+}
+
+// ── START SCREEN ──
+function initStartScreen() {
+  const btnNew    = document.getElementById('btnNewGame')
+  const btnJoin   = document.getElementById('btnJoin')
+  const joinInput = document.getElementById('joinInput')
+  const joinError = document.getElementById('joinError')
+
+  btnNew.addEventListener('click', () => {
+    const id = generateGameId()
+    history.replaceState({}, '', import.meta.env.BASE_URL + id)
+    initGame(id)
+  })
+
+  const attemptJoin = () => {
+    const raw = joinInput.value.trim()
+    if (!/^[a-z0-9]{4,12}$/i.test(raw)) {
+      joinError.textContent = 'Please enter a valid game ID (4–12 letters/numbers).'
+      joinInput.focus()
+      return
+    }
+    joinError.textContent = ''
+    history.replaceState({}, '', import.meta.env.BASE_URL + raw)
+    initGame(raw)
+  }
+
+  btnJoin.addEventListener('click', attemptJoin)
+  joinInput.addEventListener('keydown', e => { if (e.key === 'Enter') attemptJoin() })
+
+  document.getElementById('btnAbout').addEventListener('click', () => showScreen('about-screen'))
+  document.getElementById('btnCloseAbout').addEventListener('click', () => showScreen('start-screen'))
+}
+
+// ── BOOTSTRAP ──
+const existingId = getGameIdFromUrl()
+if (existingId) {
+  initGame(existingId, /* instant */ true)
+} else {
+  initStartScreen()
+}

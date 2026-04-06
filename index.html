@@ -9,64 +9,111 @@
 </head>
 <body>
 
-<header>
-  <div class="header-top">
-    <div class="header-logo">
+<div id="start-screen" class="screen active">
+  <div class="start-card">
+    <div class="start-logo">
       <span class="eyebrow">Colorado</span>
-      <h1>Plate <span>Spotter</span></h1>
+      <h1 class="start-title">Plate <span>Spotter</span></h1>
     </div>
-    <div class="stats">
-      <div class="stat">
-        <span class="stat-num" id="statTotal">0</span>
-        <span class="stat-label">Total</span>
-      </div>
-      <div class="stat">
-        <span class="stat-num spotted-color" id="statSpotted">0</span>
-        <span class="stat-label">Spotted</span>
-      </div>
-      <div class="stat">
-        <span class="stat-num" id="statLeft">0</span>
-        <span class="stat-label">Left</span>
-      </div>
-    </div>
-  </div>
-  <div class="progress-bar-wrap">
-    <div class="progress-bar-fill" id="progressBar"></div>
-  </div>
-</header>
+    <p class="start-tagline">Spot every Colorado license plate on the road.</p>
 
-<div class="controls">
-  <div class="search-wrap">
-    <span class="search-icon">&#128269;</span>
-    <input type="text" id="searchInput" placeholder="Search plates…" autocomplete="off" spellcheck="false">
-    <button id="searchClear" class="search-clear" aria-label="Clear search" disabled>&#x2715;</button>
-  </div>
-  <div class="filter-group" id="viewFilters">
-    <button class="filter-btn active" data-view="all">All</button>
-    <button class="filter-btn" data-view="unspotted">To Find</button>
-    <button class="filter-btn" data-view="spotted">Spotted ✓</button>
-  </div>
-  <div class="filter-group" id="catFilters">
-    <button class="filter-btn active" data-cat="all">All Types</button>
-    <button class="filter-btn" data-cat="regular">Standard</button>
-    <button class="filter-btn" data-cat="group-special">Special</button>
-    <button class="filter-btn" data-cat="military">Military</button>
-    <button class="filter-btn" data-cat="alumni">Alumni</button>
+    <button id="btnNewGame" class="btn-primary">Start New Game</button>
+
+    <div class="join-section">
+      <p class="join-label">or resume an existing game</p>
+      <div class="join-row">
+        <input type="text" id="joinInput" class="join-input"
+          placeholder="Enter game ID…" autocomplete="off" spellcheck="false" maxlength="20">
+        <button id="btnJoin" class="btn-secondary">Join</button>
+      </div>
+      <p class="join-error" id="joinError" aria-live="polite"></p>
+    </div>
+
+    <button id="btnAbout" class="btn-text">About this game</button>
   </div>
 </div>
 
-<main>
-  <div class="results-info" id="resultsInfo"></div>
-  <div class="plates-grid" id="grid"></div>
-  <div class="empty-state" id="emptyState">
-    <div class="emoji">&#128269;</div>
-    <p>No plates match your search.</p>
-  </div>
-</main>
+<div id="about-screen" class="screen">
+  <button id="btnCloseAbout" class="btn-close" aria-label="Back to start">&#x2715;</button>
+  <div class="about-content">
+    <h2 class="about-title">Plate <span>Spotter</span></h2>
+    <p class="about-lead">A road-trip spotting game for Colorado license plates.</p>
 
-<div class="game-strip">
-  Game: <span id="gameId">…</span> —
-  <a href="" id="copyLink">copy link</a>
+    <h3>How to play</h3>
+    <p>Tap a plate card whenever you spot that plate on the road. It turns green to mark it as found. Your progress is saved automatically in your browser — no account needed.</p>
+
+    <h3>Sharing a game</h3>
+    <p>Every game has a unique ID shown at the bottom of the screen. Share the link with your travel companions so everyone tracks the same road trip. Note that each player's progress is stored locally on their own device — sharing a link doesn't sync spotted plates between devices.</p>
+
+    <h3>The plates</h3>
+    <p>All 218 Colorado license plates are sourced directly from the Colorado DMV, covering Standard, Special Interest, Military, and Alumni categories.</p>
+
+    <p class="about-footer">Made with ♥ in Colorado</p>
+  </div>
+</div>
+
+<div id="game-screen" class="screen">
+
+  <header>
+    <div class="header-top">
+      <div class="header-logo">
+        <span class="eyebrow">Colorado</span>
+        <h1>Plate <span>Spotter</span></h1>
+      </div>
+      <div class="stats">
+        <div class="stat">
+          <span class="stat-num" id="statTotal">0</span>
+          <span class="stat-label">Total</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num spotted-color" id="statSpotted">0</span>
+          <span class="stat-label">Spotted</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num" id="statLeft">0</span>
+          <span class="stat-label">Left</span>
+        </div>
+      </div>
+    </div>
+    <div class="progress-bar-wrap">
+      <div class="progress-bar-fill" id="progressBar"></div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="search-wrap">
+      <span class="search-icon">&#128269;</span>
+      <input type="text" id="searchInput" placeholder="Search plates…" autocomplete="off" spellcheck="false">
+      <button id="searchClear" class="search-clear" aria-label="Clear search" disabled>&#x2715;</button>
+    </div>
+    <div class="filter-group" id="viewFilters">
+      <button class="filter-btn active" data-view="all">All</button>
+      <button class="filter-btn" data-view="unspotted">To Find</button>
+      <button class="filter-btn" data-view="spotted">Spotted ✓</button>
+    </div>
+    <div class="filter-group" id="catFilters">
+      <button class="filter-btn active" data-cat="all">All Types</button>
+      <button class="filter-btn" data-cat="regular">Standard</button>
+      <button class="filter-btn" data-cat="group-special">Special</button>
+      <button class="filter-btn" data-cat="military">Military</button>
+      <button class="filter-btn" data-cat="alumni">Alumni</button>
+    </div>
+  </div>
+
+  <main>
+    <div class="results-info" id="resultsInfo"></div>
+    <div class="plates-grid" id="grid"></div>
+    <div class="empty-state" id="emptyState">
+      <div class="emoji">&#128269;</div>
+      <p>No plates match your search.</p>
+    </div>
+  </main>
+
+  <div class="game-strip">
+    Game: <span id="gameId">…</span> —
+    <a href="" id="copyLink">copy link</a>
+  </div>
+
 </div>
 
 <script type="module" src="/src/main.js"></script>
